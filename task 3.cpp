@@ -16,9 +16,6 @@ int main() {
 	int var5;
 	char var6;	
 
-	var4 = var1;		
-	var5 = int(var2);
-
 
 	return 0;
 }
