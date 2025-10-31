@@ -18,7 +18,7 @@ int main() {
 
 	var4 = var1;		
 	var5 = int(var2);
-	var6 = *(char*)&var3;
+
 
 	return 0;
 }
